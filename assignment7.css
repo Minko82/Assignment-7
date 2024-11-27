@@ -1,0 +1,53 @@
+h1 {
+    color: #2f0d3a;
+}
+
+h2 {
+    color: #4682b4;
+}
+
+p {
+    color: black;
+}
+
+ul {
+    border: 2px solid #8fd4ff;
+    background-color: #d0f0ff;
+    border-radius: 12px;
+    padding: 10px 30px;
+}
+
+ol {
+    border: 2px solid #a3d8f4;
+    background-color: #e3fbff;
+    border-radius: 12px;
+    padding: 10px 30px;
+}
+
+
+#task1 {
+    background-color: #cceead;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#task2 {
+    background-color: #fee2d5;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#task3 {
+    background-color: #fec2d6;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+strong {
+    color: #4682b4;
+}
+
+
+em {
+    color: #4682b4;
+}
